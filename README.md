@@ -1,4 +1,4 @@
-# Team Profile Generator 
+# Jim's Team Profile Generator 
 ![Github licence](http://img.shields.io/badge/License-Apache2.0-green.svg)
 
 ## Description 
