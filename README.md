@@ -14,10 +14,10 @@ This app is used to create a team profile based on user inputs and displays that
 * [Questions](#questions)
 
 ## Installation 
-Clone the repo from Github, download Node, then install dependancies `inquirer` and `jest` for testing.  To start the app type `node index.js` in the terminal and follow the prompts.
+Clone the repo from Github, download Node, then install dependancies `inquirer` and `jest`.  To start the app, type `node index.js` in the terminal and follow the prompts.
 
 ## Usage 
-Use inquirer from your command line to answer questions about your project.
+Use inquirer from the command line to answer questions about your project.
 
 ## Video 
 View walk-through video here - [Screencastify](https://drive.google.com/file/d/1VDy108NZqcUt_woS9e4FetEmb7ZC12lf/view)<br>
