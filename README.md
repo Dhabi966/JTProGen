@@ -36,4 +36,4 @@ Contributors should contact me below.
 Enter `npm test` at command prompt to run tests.
 
 ## Questions
-If you have any questions about this projects, please contact me directly via https://github.com/Dhabi966.
+If you have any questions about this project, please contact me directly via https://github.com/Dhabi966.
