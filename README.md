@@ -1,30 +1,30 @@
 # Team Profile Generator 
-![Github licence](http://img.shields.io/badge/license-MIT-yellow.svg)
+![Github licence](http://img.shields.io/badge/License-MIT-green.svg)
 
 ## Description 
-This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet. This project demonstrates use of OOP and TDD using Jest. 
+This app is used to create a team profile based on user inputs and displays that information in a completed HTML page. 
  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
+* [Contributors](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation 
-The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest. 
+Clone the repo from Github, download Node, then install dependancies `inquirer` and `jest` for testing.  To start the app type `node index.js` and follow the prompts.
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
-View walk through video here - [Screencastify](https://drive.google.com/file/d/1tWZNaLaSKDgV-UohblVVEdnwex9nPzDj/view)<br>
+View walk-through video here - [Screencastify]()<br>
 
 
 ## License 
 This project is license under MIT
 
-## Contributing 
-Contributors should read the installation section. 
+## Contributors
+Contributors should contact me below 
 
 ## Tests
 Run `npm test` to run Jest for tests on constructors. 

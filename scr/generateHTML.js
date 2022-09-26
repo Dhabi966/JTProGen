@@ -1,4 +1,4 @@
-// create Manager card
+// Create manager card
 const generateManager = function (manager) {
     return `
     <div class="col-4 mt-4">
@@ -19,7 +19,7 @@ const generateManager = function (manager) {
     `;
 }
 
-// create Engineer card
+// Create engineer card
 const generateEngineer = function (engineer) {
     return `
     <div class="col-4 mt-4">
@@ -40,7 +40,7 @@ const generateEngineer = function (engineer) {
     `
 }
 
-// create Intern card 
+// Create intern card 
 const generateIntern = function (intern) {
     return `
     <div class="col-4 mt-4">
@@ -60,10 +60,10 @@ const generateIntern = function (intern) {
     `
 };
 
-// push array to page 
+// Adding array to cards
 generateHTML = (data) => {
 
-    // array for cards 
+    // Array for cards
     pageArray = []; 
 
     for (let i = 0; i < data.length; i++) {
@@ -71,21 +71,21 @@ generateHTML = (data) => {
         const role = employee.getRole(); 
 
 
-        // call manager function
+        // Call manager function
         if (role === 'Manager') {
             const managerCard = generateManager(employee);
 
             pageArray.push(managerCard);
         }
 
-        // call engineer function
+        // Call engineer function
         if (role === 'Engineer') {
             const engineerCard = generateEngineer(employee);
 
             pageArray.push(engineerCard);
         }
 
-        // call intern function 
+        // Call intern function 
         if (role === 'Intern') {
             const internCard = generateIntern(employee);
 
@@ -94,16 +94,16 @@ generateHTML = (data) => {
         
     }
 
-    // joining strings 
+    // Concatenating (joining) strings 
     const employeeCards = pageArray.join('')
 
-    // return to generated page
+    // Return to newly created HTML page
     const generateTeam = generateTeamPage(employeeCards); 
     return generateTeam;
 
 }
 
-// generate html page 
+// Created HTML page 
 const generateTeamPage = function (employeeCards) {   
   return`
   <!DOCTYPE html>
@@ -143,5 +143,5 @@ const generateTeamPage = function (employeeCards) {
 `;
 }
 
-// export to index
+// Exporting to index.html
 module.exports = generateHTML; 
