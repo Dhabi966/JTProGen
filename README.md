@@ -20,8 +20,8 @@ Clone the repo from Github, download Node, then install dependancies `inquirer` 
 Use inquirer from the command line to answer questions about your team.
 
 ## Screenshot and Video 
-Here is a screenshot of a sample of a generated HTML page
-image.png
+Here is a screenshot of a sample of a generated HTML page:
+
 
 View walk-through video here - [Screencastify](https://drive.google.com/file/d/1VDy108NZqcUt_woS9e4FetEmb7ZC12lf/view)<br>
 
