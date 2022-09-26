@@ -1,4 +1,4 @@
-# Team Profile Generator 
+# Jim's Team Profile Generator 
 ![Github licence](http://img.shields.io/badge/License-Apache2.0-green.svg)
 
 ## Description 
@@ -21,7 +21,7 @@ Use inquirer from the command line to answer questions about your team.
 
 ## Screenshot and Video 
 Here is a screenshot of a sample of a generated HTML page
-![image](https://user-images.githubusercontent.com/108851005/192399013-64c7fca8-0d61-4f46-8082-c8f5423d925c.png)
+![image](https://user-images.githubusercontent.com/108851005/192399158-09f5f0c4-f2e5-4d85-945d-8757378f45d3.png)
 
 View walk-through video here - [Screencastify](https://drive.google.com/file/d/1VDy108NZqcUt_woS9e4FetEmb7ZC12lf/view)<br>
 
