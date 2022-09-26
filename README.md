@@ -2,7 +2,7 @@
 ![Github licence](http://img.shields.io/badge/License-Apache2.0-green.svg)
 
 ## Description 
-This app is designed to create a team profile based on user inputs and displays that information in a generated HTML page. 
+This app is designed to create a team profile based on user inputs and displays that information in a generated HTML page that displays summaries for each person.
  
 ## Table of Contents
 * [Installation](#installation)
