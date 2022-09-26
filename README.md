@@ -27,13 +27,13 @@ Here is a screenshot sample of a generated HTML page:
 View walk-through video here - [Screencastify](https://drive.google.com/file/d/1VDy108NZqcUt_woS9e4FetEmb7ZC12lf/view)<br>
 
 ## License 
-This project is license under Apache 2.0
+This project is licensed under Apache 2.0
 
 ## Contributors
-Contributors should contact me below 
+Contributors should contact me below. 
 
 ## Tests
-Enter `npm test` at command prompt to run tests 
+Enter `npm test` at command prompt to run tests.
 
 ## Questions
 If you have any questions about this projects, please contact me directly via https://github.com/Dhabi966.
