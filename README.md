@@ -14,7 +14,7 @@ This app is designed to create a team profile based on user inputs and displays 
 * [Questions](#questions)
 
 ## Installation 
-Clone the repo from Github, download Node, then install dependancies `inquirer` and `jest` (for testing).  To start the app, type `node index.js` in the terminal and follow the prompts.
+Clone the repo from Github, download Node, then install dependancies `inquirer` (to answer questions) and `jest` (for testing).  To start the app, type `node index.js` in the terminal and follow the prompts.
 
 ## Usage 
 Use inquirer from the command line to answer questions about your team.
