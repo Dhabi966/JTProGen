@@ -22,6 +22,7 @@ Use inquirer from the command line to answer questions about your team.
 ## Screenshot and Video 
 Here is a screenshot of a sample of a generated HTML page:
 
+![image](https://user-images.githubusercontent.com/108851005/192399770-cf4f0c29-6cfd-4660-9eca-f81220e1189a.png)
 
 View walk-through video here - [Screencastify](https://drive.google.com/file/d/1VDy108NZqcUt_woS9e4FetEmb7ZC12lf/view)<br>
 
